@@ -1,0 +1,12 @@
+https://www.hackster.io/innat/raspberry-pi-websocket-acef41
+
+https://www.w3schools.com/nodejs/nodejs_raspberrypi_webserver_websocket.asp
+
+https://www.jaredwolff.com/raspberry-pi-getting-interactive-with-your-server-using-websockets/
+
+https://medium.com/hackernoon/python-websocket-client-connect-to-node-js-websocket-server-%C2%B5websocket-2580012901e2
+
+https://stackoverflow.com/questions/3142705/is-there-a-websocket-client-implemented-for-python
+
+https://github.com/websocket-client/websocket-client
+

@@ -1,3 +1,3 @@
 # web-socket
 
-## This is for web-socket using python
+## An example of web-socket using python
